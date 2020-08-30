@@ -1,0 +1,10 @@
+""" creating a program that takes users input(string) i.e name and prints "hello name" respective to the name.
+
+CODE:- 
+name=input("Enter a name")
+print("Hello",name)
+
+
+""" Desired Output:- Hello Sarah"""
+
+"""Output:- Hello Sarah"""
